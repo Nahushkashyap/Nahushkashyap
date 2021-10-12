@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nahushkashyap
-- 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning C and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+@Nahushkashyap
+CSE 2nd year student
+
+
 
 <!---
 Nahushkashyap/Nahushkashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
