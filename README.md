@@ -1,5 +1,5 @@
 @Nahushkashyap
-CSE 3rd year student
+Backend Software Developer
 
 
 
